@@ -42,5 +42,5 @@ Hosted on Feb 23, 2019.
 Licensed under the MIT License, Copyright © 2019-2023 [P.-Y. Chen](https://github.com/walkccc).
 
 <div align="center">
-  <sub>Assembled with ❤️ in New York.</sub>
+  <sub>Assembled with ❤️ in Surat.</sub>
 </div>
